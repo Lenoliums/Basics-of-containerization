@@ -13,12 +13,12 @@ posts have the following structure:
 }
 ```
 ## List of endpoints
-GET / get all posts
-POST / create new post
-DELETE / delete all posts
-GET /{id} get post by id
-PUT /{id} update post by id
-DELETE /{id} delete post by id
+GET / get all posts  
+POST / create new post  
+DELETE / delete all posts  
+GET /{id} get post by id  
+PUT /{id} update post by id  
+DELETE /{id} delete post by id  
 
 ## Run the System
 ```bash
